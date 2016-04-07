@@ -1,2 +1,2 @@
-# pd2--sudoku
+# pd2-sudoku
 project1作業
